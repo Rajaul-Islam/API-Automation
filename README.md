@@ -20,6 +20,7 @@
 - https://documenter.getpostman.com/view/22666982/2s9Y5WxipX
 
 ## Test Report
+![report](https://github.com/Rajaul-Islam/API-Automation/assets/86623372/91f498e0-0409-4ea8-a29b-51049db2e215)
 
 ## Newman Full Live Report Link
 https://hopeful-archimedes-cfdd63.netlify.app/
