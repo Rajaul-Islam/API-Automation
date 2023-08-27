@@ -21,6 +21,7 @@
 
 ## Test Report
 
+![report](https://github.com/Rajaul-Islam/API-Automation/assets/86623372/5fbf84ca-4a9d-4828-ba75-9c9fc7de3ef3)
 
 ## Positive and Negative case are Created for Follwing Scenraio.
 
