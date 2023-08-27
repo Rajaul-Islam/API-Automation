@@ -23,6 +23,8 @@
 
 ## Newman Full Live Report Link
 https://hopeful-archimedes-cfdd63.netlify.app/
+
+
 ## Positive and Negative case are Created for Follwing Scenraio.
 
 1. Admin creates an agent and random 2 customers. Admin email: admin@roadtocareer.net/ Pass: 1234
