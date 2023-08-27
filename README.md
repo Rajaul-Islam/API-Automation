@@ -21,9 +21,13 @@
 
 ## Test Report
 
+<<<<<<< HEAD
 ## Newman Full Live Report Link
 https://hopeful-archimedes-cfdd63.netlify.app/
 
+=======
+![report](https://github.com/Rajaul-Islam/API-Automation/assets/86623372/5fbf84ca-4a9d-4828-ba75-9c9fc7de3ef3)
+>>>>>>> 1552d4bdc8b973419940975e5e705e2a0d4b531c
 
 ## Positive and Negative case are Created for Follwing Scenraio.
 
