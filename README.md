@@ -16,6 +16,10 @@
 - ``` npm i ```
 - ``` npm test ```
 
+## Test case
+https://docs.google.com/spreadsheets/d/1-j7Gq2wA5WnfXxYAsnuwEszlTsU2axlGQ035e_qcjM0/edit?usp=sharing
+## Bug Report
+
 ## d-money API documentation
 - https://documenter.getpostman.com/view/22666982/2s9Y5WxipX
 
